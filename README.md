@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidBrainerd
 - 👀 I’m interested in Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning / Data Science Projects 
+- 💞️ I’m looking to collaborate on Machine Learning Projects 
 - 📫 How to reach me via twitter @_DavidBrainerd
 
 <!---
